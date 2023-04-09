@@ -522,7 +522,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.picup.reactdemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.picup.reactirish;
 				PRODUCT_NAME = IrishLife;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -552,7 +552,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.picup.reactdemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.picup.reactirish;
 				PRODUCT_NAME = IrishLife;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
